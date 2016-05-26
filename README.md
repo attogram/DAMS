@@ -2,7 +2,7 @@
 Dictionary Additions Management System (DAMS)
 ====
 
-* DAMS is a collection of `open content` translation dictionary files
+* DAMS is a collection of **open content** translation dictionary files
 
 
 Files:
