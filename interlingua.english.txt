@@ -1,15 +1,14 @@
-# Interlingua > English
-# ina > eng
-# 776 Word Pairs
-# 
+# Interlingua to English
+# ina to eng
+# 776 word pairs
+# deliminator:  = 
+#
 # DAMS - The Dictionary Additions Management System
 # https://github.com/attogram/DAMS
 #
 # This work is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported License. 
 # To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ 
 # or send a letter to Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA.
-# 
-# delimiter: =
 #
 a = at
 a = in
@@ -483,7 +482,7 @@ pecia = piece
 pectore = breast
 pede = foot
 pejo = worse
-pejor = worse 
+pejor = worse
 pena = difficulty
 pensar = think
 per = by
@@ -530,7 +529,7 @@ prender = seize
 prender = take
 prender = take hold of
 presso = near
-presso a = near 
+presso a = near
 preste = quick
 preste = ready
 presto = immediately
