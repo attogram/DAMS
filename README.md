@@ -9,7 +9,8 @@ of **open content** translation dictionary files.
  * Download zip: https://github.com/attogram/DAMS/archive/master.zip
  
 * DAMS @ Packagist: https://packagist.org/packages/attogram/dams
- * Install with composer: `composer create-project attogram/dams`
+ * Install with composer: `composer require attogram/dams`
+  * or: `composer create-project attogram/dams your-install-directory`
 
 Files:
 ====
