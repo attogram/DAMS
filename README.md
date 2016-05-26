@@ -9,7 +9,7 @@ Files:
 ====
 
 * english.dutch.txt
- * 4500+ English to Dutch word pairs
+ * 5000+ English to Dutch word pairs
  * License: Creative Commons Attribution-ShareAlike 3.0
 
 * english.indonesian.txt
