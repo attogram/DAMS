@@ -2,8 +2,14 @@
 Dictionary Additions Management System (DAMS)
 ====
 
-* DAMS is a collection of **open content** translation dictionary files
+The Dictionary Additions Management System (DAMS) is a collection 
+of **open content** translation dictionary files.
 
+* DAMS @ GitHub: https://github.com/attogram/DAMS
+ * Download zip: https://github.com/attogram/DAMS/archive/master.zip
+ 
+* DAMS @ Packagist: https://packagist.org/packages/attogram/dams
+ * Install with composer: `composer create-project attogram/dams`
 
 Files:
 ====
