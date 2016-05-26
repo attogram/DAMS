@@ -1,6 +1,6 @@
 {
   "name": "attogram/dams",
-  "description": "DAMS (Dictionary Additions Management System) is a collection of open content translation dictionary files",
+  "description": "The Dictionary Additions Management System (DAMS) is a collection of open content translation dictionary files",
   "type": "project",
   "homepage": "https://github.com/attogram/DAMS",
   "license": "CC-BY-SA-3.0",
