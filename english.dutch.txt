@@ -1,6 +1,6 @@
 # English to Dutch
 # eng to nld
-# 5199 word pairs
+# 5198 word pairs
 # deliminator:  = 
 #
 # DAMS - The Dictionary Additions Management System
@@ -1475,7 +1475,6 @@ education = vorming
 educative = educatieve
 eel = paling
 eels = palingen
-eend = een
 effect = afsluiten
 effort = poging
 egg = ei

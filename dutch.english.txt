@@ -1,6 +1,6 @@
 # Dutch to English
 # nld to eng
-# 5199 word pairs
+# 5198 word pairs
 # deliminator:  = 
 #
 # DAMS - The Dictionary Additions Management System
@@ -1152,7 +1152,6 @@ educatieve = educative
 eekhoorn = squirrel
 een = a
 een = an
-een = eend
 een = one
 eend = duck
 eenden = ducks
