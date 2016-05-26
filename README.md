@@ -8,25 +8,25 @@ Dictionary Additions Management System (DAMS)
 Files:
 ====
 
-english.dutch.txt
-	4500+ English to Dutch word pairs
-	License: Creative Commons Attribution-ShareAlike 3.0
+* english.dutch.txt
+ * 4500+ English to Dutch word pairs
+ * License: Creative Commons Attribution-ShareAlike 3.0
 
-english.indonesian.txt
-	1200+ English to Indonesian word pairs
-	License: Creative Commons Attribution-ShareAlike 3.0
+* english.indonesian.txt
+ * 1200+ English to Indonesian word pairs
+ * License: Creative Commons Attribution-ShareAlike 3.0
 
-english.hello.in.many.languages.txt
-	Translations of english "hello" into many languages
-	License: Creative Commons Attribution-ShareAlike 3.0
+* english.hello.in.many.languages.txt
+ * Translations of english "hello" into many languages
+ * License: Creative Commons Attribution-ShareAlike 3.0
 
-english.batak.txt
-	English to Batak word pairs
-	License: Creative Commons Attribution-ShareAlike 3.0
+* english.batak.txt
+ * English to Batak word pairs
+ * License: Creative Commons Attribution-ShareAlike 3.0
 
-hindu.tamil.txt
-	Hindu to Tamil word pairs
-	License: Creative Commons Attribution-ShareAlike 3.0
+* hindu.tamil.txt
+ * Hindu to Tamil word pairs
+ * License: Creative Commons Attribution-ShareAlike 3.0
 
 License
 ====
