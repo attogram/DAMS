@@ -1,0 +1,51 @@
+﻿# English hello > in many languages 
+# Version 0.0.0
+#
+# DAMS - The Dictionary Additions Management System
+# http://sourceforge.net/projects/dams/
+#
+# This work is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported License. 
+# To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ 
+# or send a letter to Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA.
+#
+# delimiter: =
+hello=hallo
+hello=你好
+hello=您好 
+hello=儂好
+hello=čao
+hello=høj
+hello=salut
+hello=halò
+hello=გამარჯობა
+hello=γειά σας
+hello=γειά σου
+hello=नमस्ते
+hello=szervusz
+hello=selamat siang
+hello=salute
+hello=今日は
+hello=おっす
+hello=안녕하세요
+hello=안녕
+hello=!kao
+hello=здраво
+hello=y´'át'ééh
+hello=cześć
+hello=olá
+hello=здраво
+hello=živjo
+hello=hola
+hello=hallå
+hello=வணக்கம்
+hello=สวัสดี
+hello=İyi günler
+hello=chào anh
+hello=chào chị
+hello=glidis
+hello=bondjoû
+hello=אַ גוטן טאָג
+hello=שלום
+hello=c'kemi
+hello=ᐊᐃ
+hello=ᐊᐃᓐᖓᐃ
