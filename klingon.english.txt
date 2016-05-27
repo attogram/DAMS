@@ -1,0 +1,69 @@
+# Klingon to English
+# tlh to eng
+# 57 word pairs
+# deliminator:  = 
+#
+# DAMS - The Dictionary Additions Management System
+# https://github.com/attogram/DAMS
+#
+# This work is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported License. 
+# To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ 
+# or send a letter to Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA.
+#
+'e' = that
+'oH = it
+'uy' = millions
+baktag = insult
+bIH = them
+bIH = they
+bIHnuch = coward
+bIp = hundred thousands
+cha' = two
+chaH = them
+chaH = they
+chorgh = eight
+ghaH = he
+ghaH = she
+ghay'cha' = damn it
+ghuy' = damn
+HoH = bile
+HoH = gall
+HoH = shit
+HoH = slime
+Hol = language
+Hut = nine
+HutSaD = nine thousand
+jav = six
+jIH = i
+jIH = me
+jIH cholegh soH = you see me
+jIlegh jIH = i see
+loS = four
+loSmaH cha' = fourty two
+loSSanID loS = four thousand and four
+maH = tens
+maH = us
+maH = we
+net = that
+netlh = ten thousands
+nuqneH = what do you want
+pagh = zero
+petaQ = asshole
+petaQ = bastard
+QI'yaH = curse
+Qovpatlh = insignificanct
+Qu'vatlh = a hundred tasks
+SaD = thousands
+Soch = seven
+SoH = you
+tlhIH = you
+tlhIH = you all
+tlhIngon Hol = klingon language
+vagh = five
+vaghvatlh vaghmaH vagh = five hundred and fivety five
+vatlh = hundreds
+wa' = one
+wa'maH = ten
+wa'vatlh = hundred
+wej = three
+wejmaH = thirty
