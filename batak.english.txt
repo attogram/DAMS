@@ -1,0 +1,99 @@
+# Batak to English
+# btk to eng
+# 87 word pairs
+# deliminator:  = 
+#
+# DAMS - The Dictionary Additions Management System
+# https://github.com/attogram/DAMS
+#
+# This work is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported License. 
+# To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ 
+# or send a letter to Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA.
+#
+aek = water
+aha = what
+ai marbahasa toba batak do ho = do you speak toba batak
+alogo = wind
+api = fire
+ari = day
+asu = dog
+bagas = house
+balga = big
+baoa = male
+baoa = man
+boha = how
+boha do kabar = how are you
+boha do kabarmu ompung = how are you grandpa
+boi do hamu marhata inggris = can you speak english
+bornok = wet
+boru-boru = female
+boru-boru = woman
+bue ni tondi = fruit of the soul
+denggan = i am fine
+di dia = where
+didia lao tu aek namenek = where is the toilet
+dua = two
+dukak = child
+halak = human being
+halak = person
+horas = congratulations
+horas = good evening
+horas = good morning
+horas = welcome
+horas hamu = welcome
+horas-horas = i am fine
+hundul ma hamu = please sit down
+ia goarhu = my name is
+ido = of course
+ihuthon ahu = follow me
+ise do goarmu = what is your name
+law = warm
+lima = five
+marsahit = painful
+marsahit = sick
+marsahit au = i am sick
+marsiajar hata batak au = i am studying batak
+mata = eye
+mauliate = thank you
+mekkel = to laugh
+met-met = small
+minim = to drink
+monci = rat
+mual ni roha = spring of the heart
+mula dyadi = god
+ndang huantusi = i do not understand
+ndang huboto = i do not know
+ndang huboto marhata indonesia = i do not speak indonesian
+ndaong = no
+obuk = hair
+olo = yes
+onom = six
+pandaraman nauli = beautiful source
+pasu-pasu ma di hamu = blessings to you
+pendeta = pastor
+pitu = seven
+ra = maybe
+rabba = forest
+rabba = woods
+rara = red
+rata-rata = green
+sada = one
+sahali nai = once again
+sai anggiat sehat-sehat ate = hope you are doing great
+saotik do huboto hata batak = i only speak a little batak
+sappulu = ten
+satongkin = just a minute
+sia = nine
+surat hamu ma = write it down please
+tao = lake
+timus = smoke
+tole = please
+tolu = three
+toras = old
+tung las rohangku pajumpang dohot hamu = pleased to meet you
+tutu = of course
+udan = rain
+uli situtu = excellent
+uli situtu = very good
+ulu = head
+walu = eight
