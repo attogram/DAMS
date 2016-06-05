@@ -12,28 +12,6 @@ of **open content** translation dictionary files.
  * Install with composer: `composer require attogram/dams`
   * or: `composer create-project attogram/dams your-install-directory`
 
-Files:
-====
-
-* english.dutch.txt
- * 5000+ English to Dutch word pairs
- * License: Creative Commons Attribution-ShareAlike 3.0
-
-* english.indonesian.txt
- * 1200+ English to Indonesian word pairs
- * License: Creative Commons Attribution-ShareAlike 3.0
-
-* english.hello.in.many.languages.txt
- * Translations of english "hello" into many languages
- * License: Creative Commons Attribution-ShareAlike 3.0
-
-* english.batak.txt
- * English to Batak word pairs
- * License: Creative Commons Attribution-ShareAlike 3.0
-
-* hindu.tamil.txt
- * Hindu to Tamil word pairs
- * License: Creative Commons Attribution-ShareAlike 3.0
 
 License
 ====
