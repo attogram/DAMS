@@ -1,6 +1,6 @@
 # English to ISO639
 # eng to ISO639
-# 557 translations
+# 556 translations
 # deliminator:  =
 #
 # DAMS - The Dictionary Additions Management System
