@@ -25,7 +25,6 @@ Akkadian = akk
 Alacalufan languages = aqa
 Albanian = alb
 Albanian = sqi
-Albanian languages = sqi
 Aleut = ale
 Algic languages = aql
 Algonquian languages = alg

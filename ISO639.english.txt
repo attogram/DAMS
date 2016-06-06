@@ -469,7 +469,6 @@ son = Songhai languages
 sot = Southern Sotho
 spa = Spanish
 sqi = Albanian
-sqi = Albanian languages
 srd = Sardinian
 srn = Sranan Tongo
 srp = Serbian
