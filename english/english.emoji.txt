@@ -1,6 +1,6 @@
 # English to Emoji
 # eng to emoji
-# 962 translations
+# 961 translations
 # deliminator:  =
 #
 # DAMS - The Dictionary Additions Management System
