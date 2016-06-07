@@ -1,0 +1,115 @@
+# Emoji to Dutch
+# emoji to nld
+# 103 translations
+# deliminator:  =
+#
+# DAMS - The Dictionary Additions Management System
+# https://github.com/attogram/DAMS
+#
+# This work is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported License.
+# To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/
+# or send a letter to Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA.
+#
+⌚ = horloge
+⌚ = uurwerk
+⌚ = volgen
+⌚ = wacht
+⌨ = toetsenbord
+♍ = maagd
+♐ = boogschutter
+♑ = steenbok
+♒ = waterman
+⚖ = weegschaal
+⛏ = plukken
+⛵ = zeilboot
+✈ = vliegtuig
+✏ = potlood
+🌿 = kruid
+🍋 = citroen
+🍞 = brood
+🍨 = ijs
+🍨 = ijsje
+🍨 = roomijs
+🍪 = koekje
+🎅 = kerstman
+🎆 = vuurwerk
+🎈 = ballon
+🎦 = bioscoop
+🎫 = kaart
+🎫 = kaartje
+🎮 = videospel
+🎰 = speelautomaat
+🏃 = loper
+🏜 = woestijn
+🏥 = ziekenhuis
+🏦 = bank
+🏦 = dijk
+🐁 = muis
+🐄 = koe
+🐅 = tijger
+🐇 = konijn
+🐈 = kat
+🐉 = draak
+🐊 = krokodil
+🐋 = walvis
+🐍 = slang
+🐎 = paard
+🐎 = paardje
+🐏 = ram
+🐒 = aap
+🐔 = kip
+🐕 = hond
+🐟 = vissen
+🐦 = vogel
+🐦 = vogeltje
+👁 = aankijken
+👁 = nakijken
+👁 = oog
+👂 = gehoor
+👃 = neus
+👄 = mond
+👖 = spijkerbroek
+👦 = jongen
+👧 = meisje
+👨 = men
+👪 = familie
+👪 = huisgezin
+👪 = huishouding
+👶 = baby
+👶 = kleintje
+👶 = wicht
+👶 = zuigeling
+👸 = prinses
+💍 = bellen
+💍 = schellen
+💏 = kus
+💏 = kussen
+💺 = zetel
+📓 = blocnote
+📚 = boeken
+📦 = pakken
+📰 = krant
+📷 = toestel
+📺 = televisie
+📺 = tv
+📻 = draadloze
+🔑 = sleutel
+🔒 = afsluiten
+🔥 = brand
+🔥 = vuur
+🔨 = hamer
+🕳 = gat
+🕳 = kuil
+🕳 = oog
+🚀 = raket
+🚆 = trein
+🚇 = metro
+🚉 = plaatsen
+🚌 = bus
+🚢 = schip
+🚲 = fiets
+🚿 = douche
+🛀 = badplaats
+🛀 = ligbad
+🛁 = ligbad
+🛡 = beschermen

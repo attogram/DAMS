@@ -1,0 +1,115 @@
+# Dutch to Emoji
+# nld to emoji
+# 103 translations
+# deliminator:  =
+#
+# DAMS - The Dictionary Additions Management System
+# https://github.com/attogram/DAMS
+#
+# This work is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported License.
+# To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/
+# or send a letter to Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA.
+#
+aankijken = 👁
+aap = 🐒
+afsluiten = 🔒
+baby = 👶
+badplaats = 🛀
+ballon = 🎈
+bank = 🏦
+bellen = 💍
+beschermen = 🛡
+bioscoop = 🎦
+blocnote = 📓
+boeken = 📚
+boogschutter = ♐
+brand = 🔥
+brood = 🍞
+bus = 🚌
+citroen = 🍋
+dijk = 🏦
+douche = 🚿
+draadloze = 📻
+draak = 🐉
+familie = 👪
+fiets = 🚲
+gat = 🕳
+gehoor = 👂
+hamer = 🔨
+hond = 🐕
+horloge = ⌚
+huisgezin = 👪
+huishouding = 👪
+ijs = 🍨
+ijsje = 🍨
+jongen = 👦
+kaart = 🎫
+kaartje = 🎫
+kat = 🐈
+kerstman = 🎅
+kip = 🐔
+kleintje = 👶
+koe = 🐄
+koekje = 🍪
+konijn = 🐇
+krant = 📰
+krokodil = 🐊
+kruid = 🌿
+kuil = 🕳
+kus = 💏
+kussen = 💏
+ligbad = 🛀
+ligbad = 🛁
+loper = 🏃
+maagd = ♍
+meisje = 👧
+men = 👨
+metro = 🚇
+mond = 👄
+muis = 🐁
+nakijken = 👁
+neus = 👃
+oog = 👁
+oog = 🕳
+paard = 🐎
+paardje = 🐎
+pakken = 📦
+plaatsen = 🚉
+plukken = ⛏
+potlood = ✏
+prinses = 👸
+raket = 🚀
+ram = 🐏
+roomijs = 🍨
+schellen = 💍
+schip = 🚢
+slang = 🐍
+sleutel = 🔑
+speelautomaat = 🎰
+spijkerbroek = 👖
+steenbok = ♑
+televisie = 📺
+tijger = 🐅
+toestel = 📷
+toetsenbord = ⌨
+trein = 🚆
+tv = 📺
+uurwerk = ⌚
+videospel = 🎮
+vissen = 🐟
+vliegtuig = ✈
+vogel = 🐦
+vogeltje = 🐦
+volgen = ⌚
+vuur = 🔥
+vuurwerk = 🎆
+wacht = ⌚
+walvis = 🐋
+waterman = ♒
+weegschaal = ⚖
+wicht = 👶
+woestijn = 🏜
+zeilboot = ⛵
+zetel = 💺
+ziekenhuis = 🏥
+zuigeling = 👶
