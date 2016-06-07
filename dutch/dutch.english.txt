@@ -1,13 +1,13 @@
 # Dutch to English
 # nld to eng
 # 5198 word pairs
-# deliminator:  = 
+# deliminator:  =
 #
 # DAMS - The Dictionary Additions Management System
 # https://github.com/attogram/DAMS
 #
-# This work is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported License. 
-# To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ 
+# This work is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported License.
+# To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/
 # or send a letter to Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA.
 #
 aaien = caress
@@ -240,7 +240,7 @@ autoriteiten = authorities
 avond = evening
 avonturen = adventures
 avontuur = adventure
-azië = asia
+aziÃ« = asia
 ba = bah
 baan = job
 baan = slide
@@ -1666,7 +1666,7 @@ gezonde = healthy
 gezonder = healthier
 gezondere = healthier
 gezondheid = health
-geïmporteerde = imported
+geÃ¯mporteerde = imported
 gids = guide
 gieten = pour
 ginds = over there
@@ -2009,7 +2009,7 @@ individuele = individual
 indrukwekkendste = impressive
 indrukwekkendste = most impressive
 industrie = industry
-industriële = industrial
+industriÃ«le = industrial
 ineens = all at once
 inflatie = inflation
 informatie = information
@@ -2490,7 +2490,7 @@ leveren = supply
 levering = deliverance
 lezen = read
 libische = libyan
-libië = libya
+libiÃ« = libya
 lichaam = body
 lichaamsbeweging = bodily movement
 licht = light
@@ -5207,4 +5207,4 @@ zwenkingen = turn
 zweren = swear
 zwijgen = silence
 zwijgen = to be silent
-één = one
+Ã©Ã©n = one
