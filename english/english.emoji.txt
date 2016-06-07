@@ -664,7 +664,6 @@ pouch = 👝
 poultry leg = 🍗
 pouting cat face = 😾
 pouting face = 😡
-prayer beads = 📿
 princess = 👸
 printer = 🖨
 public address loudspeaker = 📢

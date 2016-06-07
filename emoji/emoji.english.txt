@@ -678,7 +678,6 @@
 📻 = radio
 📼 = videocassette
 📽 = film projector
-📿 = prayer beads
 🔀 = twisted rightwards arrows
 🔁 = clockwise rightwards and leftwards open circle arrows
 🔂 = clockwise rightwards and leftwards open circle arrows with circled one overlay
