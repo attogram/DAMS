@@ -1,5 +1,5 @@
 # Emoji to English
-# qmo to eng
+# emo to eng
 # 961 translations
 # deliminator:  =
 #

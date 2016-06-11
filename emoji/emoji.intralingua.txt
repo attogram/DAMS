@@ -1,5 +1,5 @@
 # Emoji to Intralingua
-# qmo to ina
+# emo to ina
 # 18 translations
 # deliminator:  =
 #

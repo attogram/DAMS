@@ -1,5 +1,5 @@
 # Dutch to Emoji
-# nld to qmo
+# nld to emo
 # 103 translations
 # deliminator:  =
 #
