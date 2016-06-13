@@ -12,6 +12,9 @@ of **open content** translation dictionary files.
  * Install with composer: `composer require attogram/dams`
   * or: `composer create-project attogram/dams your-install-directory`
 
+Feature Requests
+===
+[![Feature Requests](http://feathub.com/attogram/DAMS?format=svg)](http://feathub.com/attogram/DAMS)
 
 License
 ====
