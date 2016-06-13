@@ -1,6 +1,6 @@
 {
   "name": "attogram/dams",
-  "description": "The Dictionary Additions Management System (DAMS) is a collection of open content translation dictionary files",
+  "description": "DAMS (Dictionary Additions Management System) is a collection of Open Content translation dictionaries",
   "type": "project",
   "homepage": "https://github.com/attogram/DAMS",
   "license": "CC-BY-SA-3.0",
@@ -8,7 +8,21 @@
     "attogram/open-translation-engine": "Open Translation Engine (OTE) translation dictionary manager for the web, Attogram Framework module"
   },
   "keywords": [
+    "dictionary",
+    "dictionaries",
+    "translation dictionary",
+    "translation dictionaries",
     "translation",
-    "dictionary"
+    "translate",
+    "english",
+    "dutch",
+    "interlingua",
+    "indonesian",
+    "batak",
+    "portuguese",
+    "klingon",
+    "elvish",
+    "emoji",
+    "ISO 639"
   ]
 }
