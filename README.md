@@ -1,4 +1,4 @@
-Dictionary Additions Management System (DAMS)
+Dictionary Additions Management System (DAMS) version 0.0.4
 ====
 
 A collection of **open content** translation dictionary files.
