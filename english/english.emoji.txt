@@ -1,7 +1,9 @@
 # English to Emoji
-# eng to emo
-# 961 translations
+# (eng to emo)
+#
+# translations: 978
 # deliminator:  =
+# export time: Fri, 01 Jul 2016 19:17:36 +0000 UTC
 #
 # DAMS - The Dictionary Additions Management System
 # https://github.com/attogram/DAMS
@@ -43,6 +45,7 @@ baby angel = 👼
 baby bottle = 🍼
 baby chick = 🐤
 baby symbol = 🚼
+back = 🔙
 back with leftwards arrow above = 🔙
 bactrian camel = 🐫
 baggage claim = 🛄
@@ -218,6 +221,7 @@ convenience store = 🏪
 cooked rice = 🍚
 cookie = 🍪
 cooking = 🍳
+copyright = ©
 copyright sign = ©
 couch and lamp = 🛋
 couple with heart = 💑
@@ -415,6 +419,7 @@ heavy multiplication x = ✖
 heavy plus sign = ➕
 helicopter = 🚁
 helmet with white cross = ⛑
+help = 💁
 herb = 🌿
 hibiscus = 🌺
 high brightness symbol = 🔆
@@ -446,6 +451,8 @@ ice skate = ⛸
 imp = 👿
 inbox tray = 📥
 incoming envelope = 📨
+info = 💁
+information = 💁
 information desk person = 💁
 information source = ℹ
 input symbol for latin capital letters = 🔠
@@ -511,6 +518,11 @@ lower left crayon = 🖍
 lower left fountain pen = 🖋
 lower left paintbrush = 🖌
 man = 👨
+man = 👨🏻
+man = 👨🏼
+man = 👨🏽
+man = 👨🏾
+man = 👨🏿
 man and woman holding hands = 👫
 man in business suit levitating = 🕴
 man with gua pi mao = 👲
@@ -871,6 +883,7 @@ toilet = 🚽
 tokyo tower = 🗼
 tomato = 🍅
 tongue = 👅
+top = 🔝
 top hat = 🎩
 top with upwards arrow above = 🔝
 trackball = 🖲
@@ -901,6 +914,7 @@ up down arrow = ↕
 up-pointing red triangle = 🔺
 up-pointing small red triangle = 🔼
 upwards black arrow = ⬆
+vagina = 🍑
 vertical traffic light = 🚦
 vibration mode = 📳
 victory hand = ✌
@@ -958,6 +972,11 @@ wine glass = 🍷
 winking face = 😉
 wolf face = 🐺
 woman = 👩
+woman = 👩🏻
+woman = 👩🏼
+woman = 👩🏽
+woman = 👩🏾
+woman = 👩🏿
 woman with bunny ears = 👯
 womans boots = 👢
 womans clothes = 👚

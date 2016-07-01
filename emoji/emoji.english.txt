@@ -1,7 +1,9 @@
 # Emoji to English
-# emo to eng
-# 961 translations
-# deliminator:  =
+# (emo to eng)
+#
+# translations: 978
+# deliminator:  = 
+# export time: Fri, 01 Jul 2016 19:17:36 +0000 UTC
 #
 # DAMS - The Dictionary Additions Management System
 # https://github.com/attogram/DAMS
@@ -10,6 +12,7 @@
 # To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/
 # or send a letter to Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA.
 #
+© = copyright
 © = copyright sign
 ® = registered sign
 ‼ = double exclamation mark
@@ -268,6 +271,7 @@
 🍏 = green apple
 🍐 = pear
 🍑 = peach
+🍑 = vagina
 🍒 = cherries
 🍓 = strawberry
 🍔 = hamburger
@@ -529,7 +533,17 @@
 👦 = boy
 👧 = girl
 👨 = man
+👨🏻 = man
+👨🏼 = man
+👨🏽 = man
+👨🏾 = man
+👨🏿 = man
 👩 = woman
+👩🏻 = woman
+👩🏼 = woman
+👩🏽 = woman
+👩🏾 = woman
+👩🏿 = woman
 👪 = family
 👫 = man and woman holding hands
 👬 = two men holding hands
@@ -553,6 +567,9 @@
 👾 = alien monster
 👿 = imp
 💀 = skull
+💁 = help
+💁 = info
+💁 = information
 💁 = information desk person
 💂 = guardsman
 💃 = dancer
@@ -703,10 +720,12 @@
 🔖 = bookmark
 🔗 = link symbol
 🔘 = radio button
+🔙 = back
 🔙 = back with leftwards arrow above
 🔚 = end with leftwards arrow above
 🔛 = on with exclamation mark with left right arrow above
 🔜 = soon with rightwards arrow above
+🔝 = top
 🔝 = top with upwards arrow above
 🔞 = no one under eighteen symbol
 🔟 = keycap ten
