@@ -1,4 +1,4 @@
-# Intralingua to Emoji
+# Interlingua to Emoji
 # ina to emo
 # 18 translations
 # deliminator:  =
