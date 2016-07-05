@@ -5,7 +5,9 @@
 ## [Unreleased](https://github.com/attogram/DAMS/compare/v0.0.4...HEAD)
 - Added this `./CHANGELOG.md` file!
 - Added [`./TODO.md`](./TODO.md) file
+- updated: [Emoji](./emoji/emoji.english.txt) <> [English](./english/english.emoji.txt) - 961 to 978 translations
 - fixed filename for [`./indo-european/indo-european.latin.txt`](./indo-european/indo-european.latin.txt)
+- fixed IntERlingua name
 
 ## [v0.0.4](https://github.com/attogram/DAMS/compare/cb4ae9b...v0.0.4) - 2016-06-30
 - added: Indo-European <> English - 3573 translations - from http://indo-european.info/dictionary-translator/
