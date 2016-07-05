@@ -2,7 +2,9 @@
 * Repository: https://github.com/attogram/DAMS
 * Click version number to view a diff comparison of changes since the previous release
 
-## [Unreleased](https://github.com/attogram/DAMS/compare/v0.0.4...HEAD)
+## [Unreleased](https://github.com/attogram/DAMS/compare/v0.0.5...HEAD)
+
+## [v0.0.5](https://github.com/attogram/DAMS/compare/v0.0.4...v0.0.5) - 2016-07-05
 - Added this `./CHANGELOG.md` file!
 - Added [`./TODO.md`](./TODO.md) file
 - updated: [Emoji](./emoji/emoji.english.txt) <> [English](./english/english.emoji.txt) - 961 to 978 translations
