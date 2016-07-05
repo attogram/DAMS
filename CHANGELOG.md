@@ -3,8 +3,9 @@
 * Click version number to view a diff comparison of changes since the previous release
 
 ## [Unreleased](https://github.com/attogram/DAMS/compare/v0.0.4...HEAD)
-- Added this `CHANGELOG.md` file!
-- fixed filename for [`./indo-european/indo-european.latin.txt`](./indo-europan/indo-european.latin.txt)
+- Added this `./CHANGELOG.md` file!
+- Added [`./TODO.md`](./TODO.md) file
+- fixed filename for [`./indo-european/indo-european.latin.txt`](./indo-european/indo-european.latin.txt)
 
 ## [v0.0.4](https://github.com/attogram/DAMS/compare/cb4ae9b...v0.0.4) - 2016-06-30
 - added: Indo-European <> English - 3573 translations - from http://indo-european.info/dictionary-translator/
